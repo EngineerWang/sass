@@ -1,0 +1,127 @@
+body {
+  background-color: #fff;
+}
+body div {
+  background-color: #fff;
+}
+
+a {
+  padding-left: 20px;
+  padding-right: 30px;
+}
+
+.error {
+  color: red;
+  background-color: #fff;
+  background: url(images/error.jpg);
+}
+
+.item, .item1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.nav {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+}
+
+.item1 {
+  color: red;
+}
+
+.item2 {
+  width: 30px;
+  background: red;
+}
+
+.item2 {
+  overflow: hidden;
+}
+
+/*aaaaa*/
+.item3 {
+  width: 8px;
+}
+
+.item4 {
+  width: 0;
+  height: 0;
+  font-size: 0;
+  line-height: 0;
+  border-color: transparent transparent red transparent;
+  border-style: dashed dashed solid dashed;
+  border-width: 10px;
+}
+
+.forto1 {
+  width: 20px;
+}
+
+.forto2 {
+  width: 40px;
+}
+
+.forto3 {
+  width: 60px;
+}
+
+.forto4 {
+  width: 80px;
+}
+
+.forth1 {
+  width: 20px;
+}
+
+.forth2 {
+  width: 40px;
+}
+
+.forth3 {
+  width: 60px;
+}
+
+.forth4 {
+  width: 80px;
+}
+
+.forth5 {
+  width: 100px;
+}
+
+.test0 {
+  width: 0px;
+}
+
+.test1 {
+  width: 1px;
+}
+
+.test2 {
+  width: 2px;
+}
+
+.test3 {
+  width: 3px;
+}
+
+.test4 {
+  width: 4px;
+}
+
+.nav-error {
+  background: url(images/error.jpg);
+}
+
+.nav-right {
+  background: url(images/right.jpg);
+}
+
+.nav-fatal {
+  background: url(images/fatal.jpg);
+}
+
+/*# sourceMappingURL=test1.css.map */
